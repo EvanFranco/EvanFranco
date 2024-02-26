@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking to **develop my software development skills**
 
-- 💬 Ask me about **Python, Discord.js**
-
 - 📫 Reach me @ **efranco0514@gmail.com**
 
 
