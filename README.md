@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Evan Franco👋</h1>
 <h3 align="center">I am a software developer that attends the University of Connecticut</h3>
 
-- 🔭 I’m currently working on **Outfit Insiders**
+- 🔭 I’m currently working on **Husky Developers**
 
-- 🌱 I’m currently learning **AWS, IOS devolpment**
+- 🌱 I’m currently learning **IOS devolpment**
 
 - 🤝 I’m looking to **develop my software development skills**
 
